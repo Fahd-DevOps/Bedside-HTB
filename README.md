@@ -1,2 +1,0 @@
-# Bedside-HTB
-HackTheBox — Bedside
