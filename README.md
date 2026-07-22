@@ -1,0 +1,1 @@
+## 🌩️ HackTheBox — Bedside Writeup  
